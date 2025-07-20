@@ -1,0 +1,16 @@
+2025-07-20 13:09:54,610 -  DEBUG -  Start of program
+2025-07-20 13:09:54,610 -  DEBUG -  Start of factorial(4)
+2025-07-20 13:09:54,610 -  DEBUG -  i is 1, total is 1
+2025-07-20 13:09:54,610 -  DEBUG -  i is 2, total is 2
+2025-07-20 13:09:54,610 -  DEBUG -  i is 3, total is 6
+2025-07-20 13:09:54,610 -  DEBUG -  i is 4, total is 24
+2025-07-20 13:09:54,610 -  DEBUG -  End of factorial(4)
+2025-07-20 13:09:54,612 -  DEBUG -  End of program
+2025-07-20 13:11:46,871 -  DEBUG -  Start of program
+2025-07-20 13:11:46,871 -  DEBUG -  Start of factorial(4)
+2025-07-20 13:11:46,872 -  DEBUG -  i is 1, total is 1
+2025-07-20 13:11:46,872 -  DEBUG -  i is 2, total is 2
+2025-07-20 13:11:46,872 -  DEBUG -  i is 3, total is 6
+2025-07-20 13:11:46,873 -  DEBUG -  i is 4, total is 24
+2025-07-20 13:11:46,873 -  DEBUG -  End of factorial(4)
+2025-07-20 13:11:46,873 -  DEBUG -  End of program
