@@ -9,4 +9,10 @@ inv = {'gold coin': 42, 'rope': 1}
 print('inventory earlier: ',inv)
 dragon_loot = ['gold coin', 'dagger', 'gold coin','ruby', 'ruby']
 inv = add_to_inventory(inv, dragon_loot)
-print('inventory now: ',inv)
+def print_inventory(inv):
+   print("Inventory : ")
+   for i,v in inv.items():
+      print(str(v)+" "+i)
+      
+   
+print_inventory(inv)
