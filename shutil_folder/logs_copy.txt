@@ -1,0 +1,1 @@
+hello, this is from terminal writing in fileappending in previous text from terminal
